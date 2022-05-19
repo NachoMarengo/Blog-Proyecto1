@@ -1,0 +1,136 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contenedor-general{
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-top: 1rem;   
+    margin-left: 6rem;
+    background-color: #333;
+    margin-right: 6rem;
+}
+
+.contenedor-post{
+    margin-top: 2rem;
+    background-color: rgb(248, 248, 248);
+    border-radius: 1rem;
+    margin-bottom: -10px;
+}
+
+.img_post{
+    width: 75%;
+    display:block;
+    margin:1rem;
+}
+
+.titulo{
+    text-align: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.fecha{
+    text-align: right;
+
+}
+
+.contenido{
+    margin-left: 1.5rem;
+    margin-right: 17rem;
+    margin-top: 1rem;
+    
+}
+
+.dar_espacio1{
+    height: 1rem;
+}
+
+.text_autor{
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;  
+    font-size: 1.3rem;
+    color: rgb(13, 110, 253);
+}
+
+.autor_nombre{
+    font-size: 2.5rem;
+    margin-left: 1.5rem;
+    margin-top: -1rem;
+    color: white;
+}
+
+.autor_descripcion{
+    font-size: 1rem;
+    margin-left: 1.5rem;
+    margin-top: -0.8rem;
+    color: rgb(202, 202, 202);
+}
+
+.autor_img{
+    width: 25%;
+    border-radius: 100%;
+    margin-left: 52rem;
+    margin-top: -8rem;
+    margin-bottom: 1rem;
+}
+
+.contenedor_crear_comentario{
+    background-color: rgb(248, 248, 248);
+    margin-top: 2rem;
+    background-color: rgb(248, 248, 248);
+    border-radius: 1rem;
+    margin-bottom: -10px;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    height: 14rem;
+}
+
+.caja_comentario{
+    background-color: tomato;
+}
+
+.Titulo_comentar{
+    font-size: 1rem;
+    color: #333;
+    margin-left: 1.5rem;
+    
+}
+
+.div-boton-comentar{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.contenedor_comentario2{
+    background-color: rgb(255, 255, 255);
+    margin-left: 8rem;
+    margin-right: 6rem;
+    margin-top: -2.2rem;
+    height: auto;
+    width: auto;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 1rem;
+}
+
+.espacion-div{
+    margin-top: 1.2rem;
+}
+
+.palabra_divisora{
+    color: rgb(248, 248, 248);
+    height: 1rem;
+}
+
+.texto_comentario{
+    margin-left: 1rem;
+}
+
+.fecha_comentario{
+    font-size: 0.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-right: 2rem;
+}
